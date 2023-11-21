@@ -1,0 +1,6 @@
+.bundle/
+
+/db/*.db
+
+/tmp/*
+!/tmp/.keep

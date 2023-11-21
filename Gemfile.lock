@@ -1,0 +1,27 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    io-console (0.6.0)
+    irb (1.9.1)
+      rdoc
+      reline (>= 0.3.8)
+    mini_portile2 (2.8.5)
+    psych (5.1.1.1)
+      stringio
+    rdoc (6.6.0)
+      psych (>= 4.0.0)
+    reline (0.4.0)
+      io-console (~> 0.5)
+    sqlite3 (1.6.8)
+      mini_portile2 (~> 2.8.0)
+    stringio (3.0.9)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  irb
+  sqlite3
+
+BUNDLED WITH
+   2.4.10
